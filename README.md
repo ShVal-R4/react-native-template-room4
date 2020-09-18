@@ -17,7 +17,7 @@ Template for init RN project
 ## :arrow_forward: Usage
 
 ```sh
-npx react-native init ProjectName --template=https://github.com/ShVal-R4/react-native-template-room4
+npx react-native init ProjectName --template=react-native-template-room4
 ```
 
 # Note on the legacy CLI
